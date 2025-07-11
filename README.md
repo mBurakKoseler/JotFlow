@@ -61,7 +61,7 @@ Her gün yeni bir seviye, görev takibi ve geçmiş notlara erişmeni sağlar.
 ---
 
 ## 🛠️ Kurulum ve Başlatma
-
+```
 git clone https://github.com/kullaniciAdi/jotflow.git
 cd jotflow
 npm install
