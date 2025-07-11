@@ -1,0 +1,30 @@
+//Bu dosya typeScript derleyicisinin (compiler) projeyi nasıl işlemesi gerektiğini tanımlar. Kod kaltesini artırır ve hataların çoğunu yazarken fark etmeni sağlar.
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "strict": true, //sıkı denetim(güvenli)modu
+    "noImplicitOverride": true, //override varsa override kalıbı kullanımını zorunlu kılar
+    "noPropertyAccessFromIndexSignature": true,
+    "noImplicitReturns": true, //tüm kod dallarında return u zorunlu kılar
+    "noFallthroughCasesInSwitch": true, //switchlerde break kontrolü yapar
+    "skipLibCheck": true,
+    "isolatedModules": true,
+    "experimentalDecorators": true, //component vb. dekoratörleri etkinleştirir
+    "importHelpers": true, //kod tekrarı azaltmak için tslib kullanımı
+    "target": "ES2022",
+    "module": "preserve"
+  },
+  "angularCompilerOptions": {
+    "enableI18nLegacyMessageIdFormat": false,
+    "strictInjectionParameters": true,
+    "strictInputAccessModifiers": true,
+    "typeCheckHostBindings": true,
+    "strictTemplates": true
+  },
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ]
+}
