@@ -6,7 +6,6 @@
 **JotFlow**, günlük üretkenliğini eğlenceli bir şekilde takip etmeni sağlayan bir Angular uygulamasıdır.  
 Her gün yeni bir seviye, görev takibi ve geçmiş notlara erişmeni sağlar.
 
-Bu proje, **Angular konusunda temel kazanmak için kişisel projem** olarak geliştirilmiştir. Dilerseniz uygun şekilde kaynak göstererek kendi projelerinde referans olarak kullanabilirler.
 ---
 
 ## 📸 Ekran Görüntüleri
