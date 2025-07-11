@@ -1,5 +1,5 @@
 # 📝 JotFlow  
-**Günlük notlarını & görevlerini yönet
+**Günlük notlarını & görevlerini yönet**
 
 ## 🎯 Nedir?
 
