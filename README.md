@@ -69,6 +69,5 @@ cd jotflow
 npm install
 ng serve
 http://localhost:4200
-
-Bu proje MIT lisansı ile lisanslanmıştır.
+```
 © 2025 – [mBurakKoseler]
