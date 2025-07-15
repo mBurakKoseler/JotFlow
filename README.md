@@ -6,6 +6,22 @@
 **JotFlow**, günlük üretkenliğini eğlenceli bir şekilde takip etmeni sağlayan bir Angular uygulamasıdır.  
 Her gün yeni bir seviye, görev takibi ve geçmiş notlara erişmeni sağlar.
 
+
+## 🚀 Özellikler
+
+| 🚩 Özellik | Açıklama |
+|-----------|----------|
+| 📅 **Günlük Notlar** | Her gün için özel not yazabilir, saklayabilirsin. |
+| ✅ **Görev Takibi** | Görev ekle, kategorilendir, tamamla veya yarına aktar. |
+| 📊 **Tamamlama Oranı** | Günlük görev başarı yüzdesini canlı takip et. |
+| 🏆 **XP Sistemi** | Her gün yaptığın işlemler seni seviye atlatır (seviye: Çaylak → ...). |
+| 🕰️ **Geçmiş Takibi** | Önceki günlerin notlarını ve görevlerini geri dönerek görüntüle. |
+| 💱 **Canlı Döviz/Kripto Modülü** | USD, EUR ve BTC verilerini anlık gösterir. |
+ 
+ 🌙 Karanlık Mod Desteği
+ 🎙️ Sesli Not Özelliği
+ 📆 Takvim Entegrasyonu
+
 ---
 
 ## 📸 Ekran Görüntüleri
@@ -26,28 +42,6 @@ Her gün yeni bir seviye, görev takibi ve geçmiş notlara erişmeni sağlar.
 
 ---
 
-## 🚀 Özellikler
-
-| 🚩 Özellik | Açıklama |
-|-----------|----------|
-| 📅 **Günlük Notlar** | Her gün için özel not yazabilir, saklayabilirsin. |
-| ✅ **Görev Takibi** | Görev ekle, kategorilendir, tamamla veya yarına aktar. |
-| 📊 **Tamamlama Oranı** | Günlük görev başarı yüzdesini canlı takip et. |
-| 🏆 **XP Sistemi** | Her gün yaptığın işlemler seni seviye atlatır (seviye: Çaylak → ...). |
-| 🕰️ **Geçmiş Takibi** | Önceki günlerin notlarını ve görevlerini geri dönerek görüntüle. |
-| 💱 **Canlı Döviz/Kripto Modülü** | USD, EUR ve BTC verilerini anlık gösterir. |
-
- Geliştirme Yol Haritası
- 
- 🌙 Karanlık Mod Desteği
-
- 🎙️ Sesli Not Özelliği
-
- 📆 Takvim Entegrasyonu
-
- 🎨 Tema Seçici
-
- 🔔 Görev Bildirimleri
 
 ---
 
