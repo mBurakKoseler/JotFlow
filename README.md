@@ -37,8 +37,6 @@ Her gün yeni bir seviye, görev takibi ve geçmiş notlara erişmeni sağlar.
 <img width="1890" height="767" alt="Ekran Alıntısı4" src="https://github.com/user-attachments/assets/4d19541b-f6e1-41d6-91d0-4d873b4a159d" />
 
 
-<img width="724" height="325" alt="Ekran Alıntısı5" src="https://github.com/user-attachments/assets/7ec1e0df-e132-4a6f-b20b-cc307eb09792" />
-
 
 ---
 
